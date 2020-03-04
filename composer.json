@@ -1,5 +1,5 @@
 {
-    "name": "mpociot/laravel7-apidoc-generator",
+    "name": "DeepingLab/laravel7-apidoc-generator",
     "license": "MIT",
     "description": "Generate beautiful API documentation from your Laravel application",
     "keywords": [
